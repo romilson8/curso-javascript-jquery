@@ -1,7 +1,7 @@
 var colors;
 colors =['white','black','custom'];
 var el = document.getElementById('colors');
-el.textContent = colors[2,0];
+el.textContent = colors[2];
 
 
 /* outra forma de criar um array
